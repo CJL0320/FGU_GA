@@ -24,7 +24,7 @@
   <script>
     document.getElementById('myForm').addEventListener('submit', function(e){
       e.preventDefault();
-      gtag('event', 'form_submit', {form_id; 'myForm'});
+      gtag('event', 'form_submit', {form_id: 'myForm'});
       alert('GA4 表單提交事件已發送');
     });
 
