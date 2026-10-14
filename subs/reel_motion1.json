@@ -1,0 +1,9 @@
+{"scenes": [
+ {"d": 90,  "title": "عندك sponsor وما تبيعش؟", "big": true, "icon": "campaign"},
+ {"d": 75,  "kicker": "E-COMMERCE TIP", "title": "3 أخطاء", "sub": "تحرق الميزانية تاعك", "big": true},
+ {"d": 105, "kicker": "الخطأ 1", "title": "créative ضعيفة", "sub": "الفيديو هو اللي يبيع، ماشي الإعلان", "icon": "cancel"},
+ {"d": 105, "kicker": "الخطأ 2", "title": "الجمهور غالط", "sub": "استهدف اللي يشري، ماشي الكل", "icon": "person"},
+ {"d": 105, "kicker": "الخطأ 3", "title": "ما تردش بسرعة", "sub": "الكليان يبرد في دقايق", "icon": "chat"},
+ {"d": 105, "kicker": "الحل", "title": "créative + جمهور + رد سريع", "sub": "هكا الإعلان يولي يبيع", "icon": "check_circle"},
+ {"d": 90,  "title": "حاب نخدملك sponsor ؟", "sub": "راسلني على واتساب", "icon": "storefront", "big": true}
+]}
